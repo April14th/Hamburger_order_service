@@ -3,7 +3,7 @@ class Hamburger {
         this.size = null;
         this.stuffing = null;
         this.toppingsList = [];
-        this.url = 'https://raw.githubusercontent.com/April14th/JavaScript_2/lesson_2/lesson_2/home-work-3.1/JSON/hamburger.json';
+        this.url = 'https://raw.githubusercontent.com/April14th/Hamburger_order_service/gh-pages/JSON/hamburger.json';
         this.jsonObj = null;
         this.initDefault();
         this.getSize();
