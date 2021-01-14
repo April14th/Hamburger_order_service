@@ -1,13 +1,13 @@
 {
     "size": [
         {   
-            "name": "Маленький",
+            "name": "маленький",
             "price": 50,
             "calorific": 20
         },
 
         {
-            "name": "Большой",
+            "name": "большой",
             "price": 100,
             "calorific": 40
         }
@@ -15,19 +15,19 @@
 
     "stuffing": [
         {
-            "name": "С сыром",
+            "name": "с сыром",
             "price": 10,
             "calorific": 20
         },
 
         {
-            "name": "С салатом",
+            "name": "с салатом",
             "price": 20,
             "calorific": 5
         },
 
         {
-            "name": "С картофелем",
+            "name": "с картофелем",
             "price": 15,
             "calorific": 10
         }
@@ -35,13 +35,13 @@
 
     "topping": [
         {
-            "name": "Приправа",
+            "name": "приправа",
             "price": 15,
             "calorific": 0
         },
 
         {
-            "name": "Майонез",
+            "name": "майонез",
             "price": 20,
             "calorific": 5
         }
