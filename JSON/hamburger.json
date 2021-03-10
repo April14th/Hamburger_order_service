@@ -1,0 +1,49 @@
+{
+    "size": [
+        {   
+            "name": "маленький",
+            "price": 50,
+            "calorific": 20
+        },
+
+        {
+            "name": "большой",
+            "price": 100,
+            "calorific": 40
+        }
+    ],
+
+    "stuffing": [
+        {
+            "name": "с сыром",
+            "price": 10,
+            "calorific": 20
+        },
+
+        {
+            "name": "с салатом",
+            "price": 20,
+            "calorific": 5
+        },
+
+        {
+            "name": "с картофелем",
+            "price": 15,
+            "calorific": 10
+        }
+    ],
+
+    "topping": [
+        {
+            "name": "приправа",
+            "price": 15,
+            "calorific": 0
+        },
+
+        {
+            "name": "майонез",
+            "price": 20,
+            "calorific": 5
+        }
+    ]
+}
