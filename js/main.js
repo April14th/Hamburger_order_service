@@ -168,7 +168,7 @@ class Hamburger {
                     <span class="order-item">Дополнительные добавки: ${hamburger.toppingsList.length ? hamburger.toppingsList.join(', ') : 'отсутствуют' }</span>
                     <span class="order-item">Цена: ${hamburger.priceOfHamburger} RUB</span>
                     <span class="order-item">Количесво каллорий: ${hamburger.calorificOfHamburger} кКал</span>
-            </div>`
+                </div>`
     }
 
     initOrder(button) {
